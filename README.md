@@ -1,2 +1,3 @@
 # fichas-bending
-Maquina vending de fichas en Arduino 
+
+Arma tu propia maquina para fichas mikrotik
